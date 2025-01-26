@@ -12,7 +12,7 @@ This is a project developed by Team 17, consisting of Pratik Thapa, Meseker Work
 
 ## Task Lists
 
-# Pratik Thapa
+### Pratik Thapa
 - [ ] Task 1: Complete Git Tutorial
 - [ ] Task 2: Add Screenshots to README.md
 - [ ] Task 3: Modify .html File
