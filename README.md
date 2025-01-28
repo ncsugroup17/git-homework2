@@ -14,6 +14,13 @@ This is a project developed by Team 17, consisting of Pratik Thapa, Meseker Work
 #### Image 2
 ![Pratik Thapa Image 1](images/ThapaPratik2.png)
 
+### Meseker Worku
+#### Image1
+![alt text](images/mworkuk.png)
+
+#### Image2
+![alt text](images/mworkuk-1.png)
+
 ## 💻 Code Example
 
 ## Task Lists
@@ -32,7 +39,7 @@ This is a project developed by Team 17, consisting of Pratik Thapa, Meseker Work
 - [ ] Task 4: Merge latest changes
 - [ ] Task 5: Review pull requests
 
-# --
+# Meseker Worku Kebede
 - [ ] Task 1: Complete Git Tutorial
 - [ ] Task 2: Add Screenshots to README.md
 - [ ] Task 3: Modify .html File
