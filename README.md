@@ -19,7 +19,7 @@ This is a project developed by Team 17, consisting of Pratik Thapa, Meseker Work
 - [ ] Task 4: Merge latest changes
 - [ ] Task 5: Review pull requests
 
-# --
+# O'Neal M'Beri
 - [ ] Task 1: Complete Git Tutorial
 - [ ] Task 2: Add Screenshots to README.md
 - [ ] Task 3: Modify .html File
