@@ -21,6 +21,12 @@ This is a project developed by Team 17, consisting of Pratik Thapa, Meseker Work
 #### Image2
 ![alt text](images/mworkuk-1.png)
 
+
+### O'Neal M'Beri
+### Image 1
+![O'Neal M'Beri Image 1](images/ocmberi1.jpg)
+![O'Neal M'Beri Image 2](images/ocmberi2.jpg)
+
 ## 💻 Code Example
 
 ## Task Lists
